@@ -3,6 +3,7 @@
 2. Write a program that asks the user for their age and prints whether they are eligible to vote (age ≥ 18).
 3. Write a program to check if a given number is even or odd.
 4. Create a program that takes a temperature in Celsius and prints whether it's cold (<20°C), moderate (20-30°C), or hot (>30°C).
+
 **Intermediate Questions**
 5. Write a program to find the largest of two numbers entered by the user.
 6. Create a Python program that calculates a discount:
@@ -10,6 +11,7 @@
 Otherwise, no discount is applied.
 8. Write a program that checks if a year is a leap year. (Hint: A year is a leap year if it is divisible by 4, but not by 100, unless it is divisible by 400.)
 9. Create a program that asks the user for three numbers and prints the smallest number.
+
 **Advanced Questions**
 10. Write a program that takes an exam score as input and assigns grades as follows:
 90-100: A
@@ -42,6 +44,7 @@ Green: "Go"
 Take two numbers and an operator (+, -, *, /) as input.
 Perform the operation and print the result.
 Handle division by zero with an appropriate message.
+
 **Challenge Questions**
 17. Write a program that determines if a string entered by the user is a palindrome (reads the same forward and backward).
 18. Write a program that asks the user for a number and prints whether it is a "Perfect Number." (Hint: A perfect number is a number whose sum of divisors equals the number itself, e.g., 6: 1 + 2 + 3 = 6.)
